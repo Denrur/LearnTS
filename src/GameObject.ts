@@ -32,6 +32,6 @@ export class GameObject {
   }
 
   init() {
-    console.log("GameObject initialized", this);
+    console.log("GameObject initialized!", this);
   }
 }
